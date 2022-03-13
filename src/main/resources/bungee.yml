@@ -1,0 +1,7 @@
+name: AltChecker
+version: '1.0'
+main: net.elytrapvp.altchecker.AltChecker
+description: Alt Checking Plugin for ElytraPvP
+
+commands:
+  alts:
